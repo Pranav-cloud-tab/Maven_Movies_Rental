@@ -29,3 +29,7 @@ Highlight gaps in the inventory and optimize stock levels.
 
 # Tools & Library Used
 [<img src="Code_Output/mysql-logo.svg" />](https://www.mysql.com/) &nbsp;
+
+# Project Result
+
+[Click here to get full code](https://github.com/Pranav-cloud-tab/Maven_Movies_Rental/blob/main/Movies_Rental_Business.sql)
